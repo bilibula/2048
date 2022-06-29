@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2048image/0.png</file>
+        <file>2048image/1.png</file>
+        <file>2048image/2.png</file>
+        <file>2048image/3.png</file>
+        <file>2048image/4.png</file>
+        <file>2048image/5.png</file>
+        <file>2048image/6.png</file>
+        <file>2048image/7.png</file>
+        <file>2048image/8.png</file>
+        <file>2048image/9.png</file>
+        <file>2048image/10.png</file>
+        <file>2048image/11.png</file>
+        <file>2048image/12.png</file>
+        <file>2048image/13.png</file>
+        <file>2048image/14.png</file>
+        <file>2048image/15.png</file>
+        <file>2048image/16.png</file>
+        <file>2048image/score.png</file>
+        <file>2048image/gameback.png</file>
+        <file>2048sound/cantMoveSound.wav</file>
+        <file>2048sound/composeSound.wav</file>
+        <file>2048sound/gameOverSound.wav</file>
+        <file>2048sound/moveSound.wav</file>
+        <file>2048image/achievementComplete.png</file>
+        <file>2048image/windowIcon.png</file>
+    </qresource>
+</RCC>
